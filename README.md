@@ -9,11 +9,14 @@ Experienced IT professional with over 10 years of expertise in Information Techn
 ###### DevOps Tools:
 Terraform, Docker, AWS (Amazon Web Services) , Ansible, Kubernetes, DataDog, Prometheus (Grafana), Jenkins, Gitlab CI/CD, Github Actions, Python, Bash
 
-###### Databases: PostgreSQL, MySQL, MariaDB, Redis
+###### Databases: 
+PostgreSQL, MySQL, MariaDB, Redis
 
-###### Operating Systems: CentOS, RedHat, Ubuntu, Debian, Amazon Linux 2
+###### Operating Systems: 
+CentOS, RedHat, Ubuntu, Debian, Amazon Linux 2
 
-###### Data Science: Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 <h3>My Repositories</h3>
 
