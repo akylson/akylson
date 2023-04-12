@@ -35,7 +35,6 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
       <td><a href="https://github.com/akylson/Terraform_Projects"><b>Terraform AWS Projects</b></a></td>
       <td><a href="https://github.com/akylson/Terraform_Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/Terraform_Projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
-
 </tr>    
 <tr>
       <td><a href="https://github.com/akylson/iris-prediction-with-django"><b>Iris-Prediction-with-Django</b></a></td>
