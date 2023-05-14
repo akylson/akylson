@@ -13,7 +13,7 @@ Terraform, Docker, AWS (Amazon Web Services) , Ansible, Kubernetes, DataDog, Pro
 PostgreSQL, MySQL, MariaDB, Redis
 
 ###### Operating Systems: 
-CentOS, RedHat, Ubuntu, Debian, Amazon Linux 2
+CentOS, RedHat, Ubuntu, Debian, Windows Server
 
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
