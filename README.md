@@ -4,19 +4,20 @@
 
 ### My name is Kanat Akylson :raising_hand: 
 
-Experienced IT professional with over 15 years of expertise in Information Technology Management and Operations. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+Results-Oriented IT professional with over 15 years of expertise in driving IT operations efficiency through test automation and infrastructure modernization. Proven track record in cloud migrations (AWS) and streamlining DevOps processes (CI/CD) using containerization technologies. Skilled in orchestration (Kubernetes, Docker), infrastructure as code (Terraform), and cloud services (AWS). Passionate about improving system reliability and performance, and experienced in operating and supporting mission-critical applications
 
-###### DevOps Tools:
-Terraform, Docker, AWS (Amazon Web Services) , Ansible, Kubernetes, DataDog, Prometheus (Grafana), Jenkins, Gitlab CI/CD, Github Actions, Python, Bash
+###### Primary skills:
+- Cloud Computing: AWS EC2, S3, RDS, ELB, EKS, ECS, ASG, IAM, VPC, Route53, Lambda, CloudWatch
+- Orchestration/Containerization: Kubernetes, Docker, Helm
+- DevOps: Gitlab CI, Jenkins, Github Actions
+- Monitoring: Prometheus + Grafana + Loki, ELK Stack
+- Infrastructure as Code: Terraform, Ansible
+- Operating Systems/Scripting: CentOS, Red Hat, Ubuntu, Debian, Windows Server / Python, Bash
 
-###### Databases: 
-PostgreSQL, MySQL, MariaDB, Redis
-
-###### Operating Systems: 
-CentOS, RedHat, Ubuntu, Debian, Windows Server
-
-###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+###### Additional skills: 
+- Security: Hashicorp Vault, Keycloak
+- Databases: PostgreSQL, MySQL, Oracle, Redis
+- Network: Firewalls, Load Balancers, Connectivity and Integration
 <br><br>
 <h3>My Repositories</h3>
 
