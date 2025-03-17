@@ -4,12 +4,12 @@
 
 ### My name is Kanat Akylson :raising_hand: 
 
-Results-Oriented IT professional with over 15 years of expertise in driving IT operations efficiency through test automation and infrastructure modernization. Proven track record in cloud migrations (AWS) and streamlining DevOps processes (CI/CD) using containerization technologies. Skilled in orchestration (Kubernetes, Docker), infrastructure as code (Terraform), and cloud services (AWS). Passionate about improving system reliability and performance, and experienced in operating and supporting mission-critical applications
+Results-driven DevOps Engineer with 15+ years of experience in cloud infrastructure,CI/CD pipelines, and automation. Expert in Kubernetes (CKA-certified), AWS, andInfrastructure as Code (Terraform, Ansible). Proven ability to optimize deployments,reduce downtime, and automate workflows for high-scale applications. Passionateabout building scalable, secure, and efficient DevOps solutions
 
 ###### Primary skills:
 - Cloud Computing: AWS EC2, S3, RDS, ELB, EKS, ECS, ASG, IAM, VPC, Route53, Lambda, CloudWatch
 - Orchestration/Containerization: Kubernetes, Docker, Helm
-- DevOps: Gitlab CI, Jenkins, Github Actions
+- CI/CD: Gitlab CI, Jenkins, Github Actions, Nexus, ArgoCD
 - Monitoring: Prometheus + Grafana + Loki, ELK Stack
 - Infrastructure as Code: Terraform, Ansible
 - Operating Systems/Scripting: CentOS, Red Hat, Ubuntu, Debian, Windows Server / Python, Bash
