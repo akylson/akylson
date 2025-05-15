@@ -32,6 +32,11 @@ Results-driven DevOps Engineer with 15+ years of experience in cloud infrastruct
   <tbody>
 
 <tr>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_infrastructure"><b>Yandex-DevOps-Diploma-infrastructure</b></a></td>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_infrastructure/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex_devops_diploma_infrastructure?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_infrastructure/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex_devops_diploma_infrastructure?style=flat-square&labelColor=343b41"/></a></td>
+</tr>    
+<tr>
       <td><a href="https://github.com/akylson/Terraform_Projects"><b>Terraform AWS Projects</b></a></td>
       <td><a href="https://github.com/akylson/Terraform_Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/Terraform_Projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
