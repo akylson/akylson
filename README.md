@@ -19,7 +19,7 @@ Results-driven DevOps Engineer with 15+ years of experience in cloud infrastruct
 - Databases: PostgreSQL, MySQL, Oracle, Redis
 - Network: Firewalls, Load Balancers, Connectivity and Integration
 <br><br>
-<h3>My Repositories</h3>
+<h3>My Last Repositories</h3>
 
 <table width=100%>
   <thead align="center">
@@ -35,7 +35,21 @@ Results-driven DevOps Engineer with 15+ years of experience in cloud infrastruct
       <td><a href="https://github.com/akylson/yandex_devops_diploma_infrastructure"><b>Yandex-DevOps-Diploma-infrastructure</b></a></td>
       <td><a href="https://github.com/akylson/yandex_devops_diploma_infrastructure/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex_devops_diploma_infrastructure?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/akylson/yandex_devops_diploma_infrastructure/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex_devops_diploma_infrastructure?style=flat-square&labelColor=343b41"/></a></td>
-</tr>    
+</tr> 
+
+<tr>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_helmcharts"><b>Yandex-DevOps-Diploma-HelmCharts</b></a></td>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_helmcharts/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex_devops_diploma_helmcharts?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_helmcharts/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex_devops_diploma_helmcharts?style=flat-square&labelColor=343b41"/></a></td>
+</tr>  
+
+<tr>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_app"><b>Yandex-DevOps-Diploma-App</b></a></td>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_app/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex_devops_diploma_app?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/akylson/yandex_devops_diploma_app/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/yandex_devops_diploma_app?style=flat-square&labelColor=343b41"/></a></td>
+</tr>  
+
+
 <tr>
       <td><a href="https://github.com/akylson/Terraform_Projects"><b>Terraform AWS Projects</b></a></td>
       <td><a href="https://github.com/akylson/Terraform_Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
